@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Display&family=Roboto&display=swap");
+
+* {
+  font-family: "Spline Sans", sans-serif;
+  background-color: lightsteelblue;
+}
+
+.article {
+  align-items: center;
+  display: grid;
+  justify-content: center;
+  align-self: end;
+}
